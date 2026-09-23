@@ -58,7 +58,7 @@ const settings = {
               <div key={index} className="px-6 sm:px-8 lg:px-15">
                 <div className="h-[380px] sm:h-[400px] lg:h-[450px] border border-white rounded-2xl flex flex-col items-center justify-center text-center px-5 sm:px-8">
                   <div className="flex my-5">
-                    <img src="src/review/star.png" className="w-24 sm:w-28 lg:w-30" />
+                    <img src="/basic_commercial_Homepage/review/star.png" className="w-24 sm:w-28 lg:w-30" />
                   </div>
                   <div className="w-20 h-20 rounded-full bg-gray-200 my-5"></div>
                   <p className="text-white text-[11px] sm:text-sm lg:text-base leading-tight font-semibold my-4">"{item.text}"</p>

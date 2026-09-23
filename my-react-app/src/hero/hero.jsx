@@ -31,7 +31,7 @@ export default function Hero() {
   return (
     <>
       <div className="flex">
-        <img className="w-full" src={`src/hero/${Set + 1}.png`} alt={`Hero ${Set + 1}`} />
+        <img className="w-full" src={`/basic_commercial_Homepage/hero/${Set + 1}.png`} alt={`Hero ${Set + 1}`} />
       </div>
 
       <div className="inline-block container my-10 justify-center items-center w-full overflow-x-hidden" >
@@ -40,7 +40,7 @@ export default function Hero() {
             <div key={index} className="flex-shrink-0 flex items-center" >
 
               <span className="text-lg font-bold text-[16px] md:text-[18px] text-[#FF470B] mr-2">{item}</span>
-              <img className="w-[16px]" src="src/hero/star.png" alt="star" />
+              <img className="w-[16px]" src="/basic_commercial_Homepage/hero/star.png" alt="star" />
 
             </div>
           ))}

@@ -24,9 +24,9 @@ export default function Bestseller() {
   }
 
   const items=[
-    {id:"1" ,src:"src/bestseller/1.png", name:"Spicy Fusion Puffs" },
-    {id:"2" ,src:"src/bestseller/2.png", name:"Korean Chilli Noodles" },
-    {id:"3" ,src:"src/bestseller/3.png", name:"Masala Masti Puffs" }
+    {id:"1" ,src:"/basic_commercial_Homepage/bestseller/1.png", name:"Spicy Fusion Puffs" },
+    {id:"2" ,src:"/basic_commercial_Homepage/bestseller/2.png", name:"Korean Chilli Noodles" },
+    {id:"3" ,src:"/basic_commercial_Homepage/bestseller/3.png", name:"Masala Masti Puffs" }
   ]
 
   return (

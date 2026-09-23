@@ -22,14 +22,14 @@ export default function Header() {
           <button  className="lg:hidden block text-2xl text-white font-bold cursor-pointer"  onClick={() => setactive(!active)} >≡</button>
         </div>
         <div className="flex items-center gap-4 md:gap-8">
-          <Link to='/' className="hidden md:block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="src/header/search.png" alt="Search" /></Link>
-          <Link to='/' className="block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="src/header/profile.png" alt="User" /></Link>
-          <Link to='/' className="hidden md:block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="src/header/like.png" alt="Wishlist" /></Link>
-          <Link to='/' className="block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="src/header/buy.png" alt="Cart" /></Link>
+          <Link to='/' className="hidden md:block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="/basic_commercial_Homepage/header/search.png" alt="Search" /></Link>
+          <Link to='/' className="block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="/basic_commercial_Homepage/header/profile.png" alt="User" /></Link>
+          <Link to='/' className="hidden md:block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="/basic_commercial_Homepage/header/like.png" alt="Wishlist" /></Link>
+          <Link to='/' className="block font-bold cursor-pointer"><img className="w-[15px] md:w-[30px] " src="/basic_commercial_Homepage/header/buy.png" alt="Cart" /></Link>
         </div>
 
         <div className="absolute left-1/2 top-3 -translate-x-1/2">
-          <img className="w-[100px] h-[67px] md:w-[179px] md:h-[124px] " src="src/header/logo.png" alt="logo" />
+          <img className="w-[100px] h-[67px] md:w-[179px] md:h-[124px] " src="/basic_commercial_Homepage/header/logo.png" alt="logo" />
         </div>
       </nav>
 

@@ -51,8 +51,8 @@ export default function Footer() {
             </div>
             <p className="text-xs mt-6 mb-3">Also available on</p>
             <div className="flex items-center gap-4 text-xs font-bold">
-              <img className='w-10 cursor-pointer' src='src/footer/amazon.png'/>
-              <img className='w-10 cursor-pointer' src='src/footer/flipcart.png'/>
+              <img className='w-10 cursor-pointer' src='/basic_commercial_Homepage/footer/amazon.png'/>
+              <img className='w-10 cursor-pointer' src='/basic_commercial_Homepage/footer/flipcart.png'/>
             </div>
           </div>
         </div>
@@ -62,7 +62,7 @@ export default function Footer() {
 
           <div className="flex flex-col lg:flex-row items-center justify-between gap-6">
             
-              <img className='w-[30%] lg:w-[10%]' src='src/header/logo.png'/>
+              <img className='w-[30%] lg:w-[10%]' src='/basic_commercial_Homepage/header/logo.png'/>
 
             <div className="flex gap-7 text-xs text-black">
               <a href="#" className="hover:underline">Terms</a>
@@ -72,9 +72,9 @@ export default function Footer() {
 
 
             <div className="flex items-center gap-3">
-              <img className='w-10 cursor-pointer' src='src/footer/Linkedin.png'/>
-              <img className='w-10 cursor-pointer' src='src/footer/Facebook.png'/>
-              <img className='w-10 cursor-pointer' src='src/footer/Twitter.png'/>
+              <img className='w-10 cursor-pointer' src='/basic_commercial_Homepage/footer/Linkedin.png'/>
+              <img className='w-10 cursor-pointer' src='/basic_commercial_Homepage/footer/Facebook.png'/>
+              <img className='w-10 cursor-pointer' src='/basic_commercial_Homepage/footer/Twitter.png'/>
             </div>
           </div>
         </div>

@@ -37,7 +37,7 @@ export default function Reel(){
     </div>
     </div>
 
-    <div className="w-full"><img src='src/reel/label.png' /></div>
+    <div className="w-full"><img src='/basic_commercial_Homepage/reel/label.png' /></div>
 
     <div className="text-xl md:text-2xl lg:text-4xl font-black text-center my-8 lg:my-20 text-[#680C34]">REAL CREATORS. REAL ROUTINES. REAL PROTEIN.</div>
 
